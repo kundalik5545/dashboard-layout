@@ -21,7 +21,7 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@/components/ui/sidebar";
-import { Bell, LogOut, Settings2, User2, EllipsisVertical } from "lucide-react";
+import { Bell, LogOut, Settings2, User2 } from "lucide-react";
 import { useIsMobile } from "@/hooks/use-mobile";
 
 const Navbar = () => {
