@@ -26,7 +26,7 @@ export function AppSidebar() {
     user: {
       name: "Kundalik Jadhav",
       email: "jk@fm.com",
-      avatar: "next.svg",
+      avatar: "https://avatars.githubusercontent.com/u/167022612",
     },
     navMain: [
       {
